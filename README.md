@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://saurjya.in/portfolio](https://saurjya.in/portfolio)
 
-- 📫 How to reach me **rohanacharjee07@gmail.com**
+- 📫 How to reach me **whysaurjya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <div align="left">
@@ -59,7 +59,4 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
-
-###
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=whysaurjya&show_icons=true&locale=en&layout=compact" alt="whysaurjya" /></p>
 
