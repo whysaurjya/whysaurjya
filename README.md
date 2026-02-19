@@ -10,7 +10,7 @@
 
 - ⚡ Visit my Website [Here](https://saurjya.in/)
 
-- 📝 I regularly Create Content on [Instagram](https://www.instagram.com/saurjya.design/)
+- 📝 I regularly Create Content on [Instagram](https://www.instagram.com/whysaurjya)
 
 - 👨‍💻 All of my projects are available at [https://saurjya.in/portfolio](https://saurjya.in/portfolio)
 
@@ -55,8 +55,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
 </div>
-
-
-<h3 align="left">🔥   My Stats :</h3>
+ 
 
 
