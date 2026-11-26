@@ -47,7 +47,7 @@ HOST = "whysaurjya"   # shown as  whysaurjya@github  in the header
 
 ROWS = [
     ("host",),
-    ("kv", "Now", "Visual & UI/UX Designer @ DIZIVER"),
+    ("kv", "Now", "Visual & UI/UX Designer"),
     ("kv", "Focus", "Strategy-driven Branding & Digital Experiences"),
     ("kv", "Location", "Kolkata, India"),
     ("gap",),
