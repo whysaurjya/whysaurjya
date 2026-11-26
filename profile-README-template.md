@@ -17,19 +17,21 @@
 **Visual & UI/UX Designer · Design Strategist · Creative Director**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-saurjya.in-FF6B00?style=for-the-badge&logo=safari&logoColor=white)](https://saurjya.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-whysaurjya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whysaurjya/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-whysaurjya-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0bS0uNSAxNS41di01LjNhMy4yNiAzLjI2IDAgMCAwLTMuMjYtMy4yNmMtLjg1IDAtMS44NC41Mi0yLjI4IDEuM3YtMS4xMWgtMi43OXY4LjM3aDIuNzl2LTQuOTNjMC0uNzcuNjItMS40IDEuMzktMS40YTEuNCAxLjQgMCAwIDEgMS40IDEuNHY0LjkzaDIuNzVNNi44OCA4LjU2YTEuNjggMS42OCAwIDAgMCAxLjY4LTEuNjhjMC0uOTMtLjc1LTEuNjktMS42OC0xLjY5YTEuNjkgMS42OSAwIDAgMC0xLjY5IDEuNjljMCAuOTMuNzYgMS42OCAxLjY5IDEuNjhtMS4zOSA5Ljk0di04LjM3SDUuNXY4LjM3aDIuNzd6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/whysaurjya/)
 [![Instagram](https://img.shields.io/badge/Instagram-whysaurjya-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whysaurjya/)
 
 <br>
 
 ### <img src="https://cdn.simpleicons.org/figma/ffffff" height="20" valign="middle"> Featured Projects
 
-| Project | Description | Type |
-| :--- | :--- | :--- |
-| <img src="https://cdn.simpleicons.org/behance/1769FF" height="15" valign="middle"> **[DIZIVER-V2](https://github.com/whysaurjya/DIZIVER-V2)** | Modern creative studio & digital agency platform — branding, UI/UX design & web. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| <img src="https://cdn.simpleicons.org/leaflet/4CAF50" height="15" valign="middle"> **[Prakriti](https://github.com/whysaurjya/Prakriti)** | Sustainability-focused digital platform promoting nature awareness & eco-living. | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| <img src="https://cdn.simpleicons.org/notion/ffffff" height="15" valign="middle"> **[Aavaran](https://github.com/whysaurjya/Aavaran)** | All-in-one student productivity platform designed to simplify college life. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| <img src="https://cdn.simpleicons.org/shopify/96BF48" height="15" valign="middle"> **[Aartigo](https://github.com/whysaurjya/Aartigo)** | Premium luxury décor & lighting e-commerce — handcrafted chandeliers & pendants. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
-| <img src="https://cdn.simpleicons.org/googlemaps/4285F4" height="15" valign="middle"> **[Neerova](https://github.com/whysaurjya/Neerova)** | Modern plumbing service website connecting homeowners with trusted professionals. | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| Project | Description |
+| :--- | :--- |
+| <img src="https://cdn.simpleicons.org/behance/1769FF" height="15" valign="middle"> **[DIZIVER](https://diziver.netlify.app/)** | A modern creative agency platform showcasing branding, digital experiences, UI/UX design, and innovative web development services. |
+| <img src="https://cdn.simpleicons.org/leaflet/4CAF50" height="15" valign="middle"> **[Prakriti](https://prakriiti.netlify.app/)** | An eco-conscious digital platform inspiring environmental awareness, sustainable lifestyles, and meaningful connections with nature. |
+| <img src="https://cdn.simpleicons.org/shopify/96BF48" height="15" valign="middle"> **[Aartigo](https://aartigo.netlify.app/)** | A premium e-commerce platform showcasing handcrafted luxury lighting, sculptural décor, and sophisticated interior design collections. |
+| <img src="https://cdn.simpleicons.org/googlemaps/4285F4" height="15" valign="middle"> **[Neerova](https://neerova.netlify.app/)** | A modern plumbing services platform connecting homeowners with reliable professionals through accessible, seamless digital experiences. |
+| <img src="https://cdn.simpleicons.org/uber/ffffff" height="15" valign="middle"> **[DrivoCar](https://drivocar.netlify.app/)** | A smart car rental platform simplifying vehicle discovery, fleet exploration, pricing comparisons, and seamless online reservations. |
+| <img src="https://cdn.simpleicons.org/anilist/02A9FF" height="15" valign="middle"> **[Akatsukki](https://akatsukki.netlify.app/)** | A creative digital experience inspired by Akatsuki, bringing anime aesthetics, immersive visuals, and interactive storytelling together. |
+| <img src="https://cdn.simpleicons.org/fitbit/FF4D6D" height="15" valign="middle"> **[Arogyaam](https://arogyaam.netlify.app)** | A healthcare platform designed to improve patient access, simplify medical services, and enhance digital healthcare experiences. |
 
 </div>
