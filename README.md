@@ -12,7 +12,7 @@
 </tr>
 </table>
 
-## <h2>Saurjya Acharya<h2>
+## <b>Saurjya Acharya</b>
 
 <h3>Visual & UI/UX Designer · Design Strategist · Creative Director<h3>
 <h5> <i>Saurjya Acharya is an UI/UX & a Visual Designer based on Kolkata, known for professional web design, branding, and editing services. He loves to design visuals</i><h5>
