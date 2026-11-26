@@ -1,45 +1,60 @@
-<!-- Saurjya Acharya | GitHub Profile README -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img alt="Saurjya Acharya — UI/UX and Visual Designer" src="./dark.svg" width="100%">
-</picture>
+[![MasterHead](https://ogcdn.net/4625fa51-1897-45ed-8d3f-f0d004bb9be9/v1/og.png)](https://saurjya.in)
+<h1 align="center">Hi 👋, I'm Saurjya Acharya</h1>
+<h3 align="center">A Design Entrepreneur from India who loves to Design Visuals and Strategies which turn ideas to brands</h3>
 
-<h1 align="center">Hey, I'm Saurjya.</h1>
-<p align="center"><strong>UI/UX &amp; Visual Designer · Freelancer</strong></p>
-<p align="center">Designing visuals and strategies that turn ideas into brands.</p>
+###
 
-## About
+<h3 align="left">👩‍💻  About Me</h3>
 
-I'm a freelance UI/UX and Visual Designer with 4 years of experience. I work across digital interfaces, visual systems, and website experiences, bringing together thoughtful design and practical implementation.
+<p align="left"> <a href="https://twitter.com/whysaurjya" target="blank"><img src="https://img.shields.io/twitter/follow/whysaurjya?logo=twitter&style=for-the-badge" alt="whysaurjya" /></a> </p>
 
-- Focus: UI/UX design, visual design, branding, and digital experiences
-- Based in: Kolkata, India
-- Education: BBA Digital Marketing Hons, Sister Nivedita University
+- ⚡ Visit my Website [Here](https://saurjya.in/)
 
-## Selected work
+- 📝 I regularly Create Content on [Instagram](https://www.instagram.com/whysaurjya)
 
-| Project | Focus |
-|---|---|
-| **PRAHARI** | AI-powered crop-health management platform concept |
-| **Neerova** | Plumbing brand website |
-| **Kensei** | Premium platform for discovering authentic Japanese katanas |
-| **ValorantX** | Valorant website redesign |
+- 👨‍💻 All of my projects are available at [https://saurjya.in/portfolio](https://saurjya.in/portfolio)
 
-## Toolkit
+- 📫 How to reach me **whysaurjya@gmail.com**
 
-**Design & website tools**  
-Figma · Framer · Wix
+<h3 align="left">Connect with me:</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/behance/1769FF" height="40" alt="behance logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
+   <img width="12" />
+ <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
+</div>
 
-**Development**  
-HTML · CSS · JavaScript · React
+<h3 align="left">Languages and Tools:</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
+</div>
+ 
 
-## Connect
 
-- **Portfolio:** https://saurjya.in/portfolio
-- **GitHub:** https://github.com/whysaurjya
-- **LinkedIn:** https://www.linkedin.com/in/whysaurjya/
-- **Email:** whysaurjya@gmail.com
-
----
-<p align="center"><sub>Thoughtful visuals. Clear experiences. Useful digital products.</sub></p>
