@@ -1,60 +1,40 @@
-[![MasterHead](https://ogcdn.net/4625fa51-1897-45ed-8d3f-f0d004bb9be9/v1/og.png)](https://saurjya.in)
-<h1 align="center">Hi 👋, I'm Saurjya Acharya</h1>
-<h3 align="center">A Design Entrepreneur from India who loves to Design Visuals and Strategies which turn ideas to brands</h3>
+<!--
+  This is your PROFILE README. It goes in a repo named exactly after your
+  username (e.g. github.com/whysaurjya/whysaurjya) so GitHub shows it on your profile.
+  Widths 370/490 keep the portrait and info card the same height.
+-->
+<div align="center">
 
-###
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Tools, stack, highlights" /></td>
+</tr>
+</table>
 
-<h3 align="left">👩‍💻  About Me</h3>
+## Saurjya Acharya
 
-<p align="left"> <a href="https://twitter.com/whysaurjya" target="blank"><img src="https://img.shields.io/twitter/follow/whysaurjya?logo=twitter&style=for-the-badge" alt="whysaurjya" /></a> </p>
+**Visual & UI/UX Designer · Design Strategist · Creative Director**
 
-- ⚡ Visit my Website [Here](https://saurjya.in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-saurjya.in-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://saurjya.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-whysaurjya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/whysaurjya/)
+[![Instagram](https://img.shields.io/badge/Instagram-whysaurjya-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whysaurjya/)
 
-- 📝 I regularly Create Content on [Instagram](https://www.instagram.com/whysaurjya)
+<br>
 
-- 👨‍💻 All of my projects are available at [https://saurjya.in/portfolio](https://saurjya.in/portfolio)
+### 🎨 Featured Projects
 
-- 📫 How to reach me **whysaurjya@gmail.com**
+| Project | Description | Type |
+| :--- | :--- | :--- |
+| 🏢 **[DIZIVER-V2](https://github.com/whysaurjya/DIZIVER-V2)** | Modern creative studio & digital agency platform — branding, UI/UX design & web. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| 🌿 **[Prakriti](https://github.com/whysaurjya/Prakriti)** | Sustainability-focused digital platform promoting nature awareness & eco-living. | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| 🎓 **[Aavaran](https://github.com/whysaurjya/Aavaran)** | All-in-one student productivity platform designed to simplify college life. | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| 🪔 **[Aartigo](https://github.com/whysaurjya/Aartigo)** | Premium luxury décor & lighting e-commerce — handcrafted chandeliers & pendants. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) |
+| 🚿 **[Neerova](https://github.com/whysaurjya/Neerova)** | Modern plumbing service website connecting homeowners with trusted professionals. | ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
-<h3 align="left">Connect with me:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="40" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="40" alt="facebook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/behance/1769FF" height="40" alt="behance logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=twitter" height="40" alt="twitter logo"  />
-   <img width="12" />
- <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
+<br>
+
+<!-- animated contribution graph, refreshed daily by the workflow -->
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
+
 </div>
-
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
-</div>
- 
-
-
